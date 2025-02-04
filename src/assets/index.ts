@@ -1,0 +1,28 @@
+
+// ICONS
+export { default as SearchIcon } from './icons/search-icon.svg'
+export { default as SearchFilterIcon } from './icons/search-filter-icon.svg'
+export { default as DropdownIcon } from './icons/dropdown-icon.svg'
+export { default as FireIcon } from './icons/fire-icon.svg'
+export { default as StarWhiteIcon } from './icons/star-icon-white.svg'
+export { default as StarBlackIcon } from './icons/star-icon-black.svg'
+export { default as JackpotIcon } from './icons/jackpot-icon.svg'
+export { default as SlotsIcon } from './icons/slots-icon.svg'
+export { default as LiveCasinoIcon } from './icons/live-casino-icon.svg'
+export { default as TableGamesIcon } from './icons/table-games-icon.svg'
+export { default as MegawaysIcon } from './icons/megaways-icon.svg'
+export { default as LineDividerIcon } from './icons/line-divider-icon.svg'
+export { default as GameProviderIcon } from './icons/game-provider-icon.svg'
+export { default as ScratchCardsIcon } from './icons/scratch-cards-icon.svg'
+export { default as FreePlayIcon } from './icons/free-play-icon.svg'
+export { default as RedTigerIcon } from './icons/red-tiger-icon.svg'
+
+//  IMAGES
+export { default as BannerImage } from './images/BANNER1.png'
+export { default as CharacterAlienLadyImage } from './images/CHARACTER-ALIENLADY.png'
+export { default as CharacterChickenImage } from './images/CHARACTER-Chicken.png'
+export { default as CharacterCowImage } from './images/CHARACTER-COW.png'
+export { default as CharacterLadyImage } from './images/CHARACTER-LADY.png'
+export { default as CharacterManImage } from './images/CHARACTER-MAN.png'
+export { default as PodiumBiggerImage } from './images/PODIUM-BIGGER.png'
+export { default as PodiumSnallerImage } from './images/PODIUM-SMALLER.png'
