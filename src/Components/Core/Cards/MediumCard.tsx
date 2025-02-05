@@ -1,5 +1,5 @@
 import { MediumCardProps } from '../../../types/types'
-import { Button } from '../Button/Button'
+import { DefaultButton } from '../Buttons/DefaultButton'
 
 export const MediumCard = ({ card }: { card: MediumCardProps }) => {
     return (
@@ -18,7 +18,7 @@ export const MediumCard = ({ card }: { card: MediumCardProps }) => {
                     <span className='font-normal text-xl uppercase'>{card.subtitle}</span>
                 </div>
                 <div className='mt-5'>
-                    < Button />
+                    <DefaultButton />
                 </div>
             </div>
             <div>

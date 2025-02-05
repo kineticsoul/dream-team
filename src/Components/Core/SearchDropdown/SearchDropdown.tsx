@@ -13,7 +13,7 @@ export const SearchDropdown = () => {
                 <span className='absolute top-1/2 left-4 -translate-y-1/2'>
                     <img src={SearchFilterIcon} />
                 </span>
-                <span className='absolute top-1/2 right-4 z-10 -translate-y-1/2'>
+                <span className='absolute top-1/2 right-4 -translate-y-1/2'>
                     <img src={DropdownIcon} />
                 </span>
             </div>

@@ -1,4 +1,4 @@
-import { Button } from '../Button/Button'
+import { DefaultButton } from '../Buttons/DefaultButton'
 
 
 export const FullWidthCard = ({ banner }: { banner: string }) => {
@@ -11,7 +11,7 @@ export const FullWidthCard = ({ banner }: { banner: string }) => {
                 <span className='font-normal text-2xl uppercase'>On Book Of Dead</span>
             </div>
             <div className='mt-5'>
-                < Button />
+                < DefaultButton />
             </div>
         </div>
     )

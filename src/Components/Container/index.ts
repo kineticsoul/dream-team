@@ -3,7 +3,7 @@ import { Banner } from './Banner/Banner'
 import { Header } from './Header/Header';
 import { MediumCardContainer } from './MediumCardContainer/MediumCardContainer';
 import { MultiCardContainer } from './MultiCardContainer/MultiCardContainer';
-import { NavigationMenu } from './NAvigationMenu/NavigationMenu';
+import { NavigationMenu } from './NavigationMenu/NavigationMenu';
 import { SearchContainer } from './SearchContainer/SearchContainer';
 import { TabButtonGroup } from './TabButtonGroup/TabButtonGroup';
 
@@ -17,5 +17,4 @@ export {
     NavigationMenu,
     SearchContainer,
     TabButtonGroup,
-
 }

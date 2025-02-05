@@ -8,6 +8,8 @@
   --color-custom-yellowish-orange: #FFBA00;
   --color-custom-dark-gradient-end: #08A3D1;
   --color-custom-navigation-background: #121627;
+  --color-custom-chat-button-background: #EFEFEF;
+  --color-custom-sidebar-divider: #E5E5E5;
 }
 
 :root {
@@ -17,7 +19,6 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 1);
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -31,6 +32,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  /* background-image: linear-gradient(to bottom right, #0054B7, #08A3D1); */
 }
 
 
