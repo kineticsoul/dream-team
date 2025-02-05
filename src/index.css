@@ -32,7 +32,8 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  /* background-image: linear-gradient(to bottom right, #0054B7, #08A3D1); */
+  background-image: linear-gradient(to bottom right, #0054B7, #08A3D1);
+  background-size: cover;
 }
 
 
